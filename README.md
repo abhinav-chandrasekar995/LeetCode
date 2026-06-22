@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1390-four-divisors) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -95,6 +96,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1925-count-square-sum-triples) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
