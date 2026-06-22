@@ -67,6 +67,7 @@
 | [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
+| [1925-count-square-sum-triples](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0055-jump-game) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
