@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
 ## Stack
 |  |
@@ -66,4 +67,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
