@@ -1,64 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     ANIMATED PREFACE — copy everything above the "📚 Problem List" line
-     ═══════════════════════════════════════════════════════════════════════ -->
+
 
 <div align="center">
-
-<!-- Typing SVG banner -->
-<a href="https://leetcode.com/u/pNmuyrWuv1/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=90&lines=%2F%2F+a5hinav's+LeetCode+Arsenal;%23include+%3Calgorithm%3E+%2F%2F+always" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Animated glitch-style title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF9C,100:0d1117&height=120&section=header&text=LeetCode%20Solutions&fontSize=36&fontColor=00FF9C&fontAlignY=65&animation=twinkling" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated code block ASCII art -->
-```cpp
-// ┌─────────────────────────────────────────────────────┐
-// │  Engineer:   a5hinav                                │
-// │  Language:   C++ [ primary ]  |  C  |  Java        │
-// │  Profile:    leetcode.com/u/pNmuyrWuv1/             │
-// │  Status:     [ ████████░░ ] always grinding...      │
-// └─────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## `> whoami`
-
-</div>
-
-```bash
-$ cat profile.txt
-
-  Handle   :  pNmuyrWuv1  (a5hinav)
-  Language :  C++  ████████████████░░░░  primary
-             C    ██████████░░░░░░░░░░  occasional
-             Java █████░░░░░░░░░░░░░░░  legacy
-  
-  Strong in:  Dynamic Programming · Divide & Conquer
-              Math · Hash Table · Greedy
-              Array · String · Sorting · Bit Manipulation
-              Two Pointers · Binary Search · Linked List
-```
-
----
-
-<div align="center">
-
-## `> stats --live`
 
 <!-- LeetCode Stats Card -->
 <a href="https://leetcode.com/u/pNmuyrWuv1/">
@@ -67,36 +9,13 @@ $ cat profile.txt
 
 <br/><br/>
 
-<!-- Language breakdown badges -->
-<img src="https://img.shields.io/badge/C%2B%2B-Primary-00FF9C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/C%2B%2B-Primary-00B4D8?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/C-Occasional-00B4D8?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Java-Legacy-F4A261?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117"/>
-
 <br/><br/>
-
-<!-- Skill badges -->
-<img src="https://img.shields.io/badge/Dynamic%20Programming-Advanced-FF4C60?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Divide%20%26%20Conquer-Advanced-FF4C60?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Math-Intermediate-FFD166?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Hash%20Table-Intermediate-FFD166?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Greedy-Intermediate-FFD166?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Array-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/String-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Sorting-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Bit%20Manipulation-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Two%20Pointers-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Binary%20Search-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/Linked%20List-Fundamental-06D6A0?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
----
-
 <div align="center">
-
-## `> ls ./badges`
 
 <img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="80" title="50 Days Badge 2026"/>
 
@@ -104,36 +23,7 @@ $ cat profile.txt
 
 </div>
 
----
-
 <div align="center">
-
-## `> git log --oneline`
-
-<!-- Animated contribution snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/abhinav-chandrasekar995/abhinav-chandrasekar995/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhinav-chandrasekar995/abhinav-chandrasekar995/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/abhinav-chandrasekar995/abhinav-chandrasekar995/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-```cpp
-while (true) {
-    think();
-    code();
-    submit();
-    if (accepted) { commit(); push(); }
-    else          { debug(); }        // the real grind
-}
-```
-
-<br/>
 
 <a href="https://leetcode.com/u/pNmuyrWuv1/">
   <img src="https://img.shields.io/badge/View%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117"/>
@@ -144,14 +34,6 @@ while (true) {
 </a>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00FF9C,100:0d1117&height=80&section=footer" width="100%"/>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-     AUTOMATED SECTION — DO NOT EDIT BELOW THIS LINE (auto-generated)
-     ═══════════════════════════════════════════════════════════════════ -->
 
 # 📚 Problem List
 
