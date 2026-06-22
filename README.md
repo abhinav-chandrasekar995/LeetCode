@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
+| [1390-four-divisors](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1390-four-divisors) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -66,6 +67,7 @@
 | [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
+| [1390-four-divisors](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1390-four-divisors) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
 | [1925-count-square-sum-triples](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1925-count-square-sum-triples) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
