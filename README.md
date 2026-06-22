@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0058-length-of-last-word) |
 ## Math
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
