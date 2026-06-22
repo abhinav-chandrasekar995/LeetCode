@@ -11,6 +11,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
