@@ -48,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0058-length-of-last-word) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [2000-reverse-prefix-of-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0020-valid-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## String Matching
 |  |
 | ------- |
