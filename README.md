@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+| [1189-maximum-number-of-balloons](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## String
 |  |
@@ -39,6 +41,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0058-length-of-last-word) |
+| [1189-maximum-number-of-balloons](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 ## Math
 |  |
 | ------- |
