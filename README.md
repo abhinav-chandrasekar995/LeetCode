@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2000-reverse-prefix-of-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search
 |  |
@@ -119,10 +120,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
 ## Brainteaser
 |  |
