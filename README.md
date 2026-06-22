@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Hash Table
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
