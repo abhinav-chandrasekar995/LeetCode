@@ -42,6 +42,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
+| [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
@@ -55,4 +56,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
