@@ -61,6 +61,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
+| [0172-factorial-trailing-zeroes](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
