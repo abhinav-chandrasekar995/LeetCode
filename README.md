@@ -32,4 +32,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
