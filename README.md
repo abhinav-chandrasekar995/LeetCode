@@ -71,6 +71,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
@@ -87,6 +88,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
 ## Design
 |  |
