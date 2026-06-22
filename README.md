@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -106,4 +107,8 @@
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
