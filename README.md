@@ -1,41 +1,6 @@
 
 
-<div align="center">
-
-<!-- LeetCode Stats Card -->
-<a href="https://leetcode.com/u/pNmuyrWuv1/">
-  <img src="https://leetcard.jacoblin.cool/pNmuyrWuv1?theme=dark&font=Fira%20Code&ext=heatmap&border=1&radius=20" alt="LeetCode Stats" width="500"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/C%2B%2B-Primary-00B4D8?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<br/><br/>
-
-</div>
-
-<div align="center">
-
-<img src="https://assets.leetcode.com/static_assets/others/50_1080_1080.png" width="80" title="50 Days Badge 2026"/>
-
-**`50 Days Badge — 2026`**
-
-</div>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/pNmuyrWuv1/">
-  <img src="https://img.shields.io/badge/View%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://github.com/abhinav-chandrasekar995/LeetCode">
-  <img src="https://img.shields.io/badge/View%20on-GitHub-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-</a>
-
-</div>
-
-# 📚 Problem List
+# LeetCode Problem List
 
 ## Array
 
