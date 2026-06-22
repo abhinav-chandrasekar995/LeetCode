@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0622-design-circular-queue](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0622-design-circular-queue) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/2126-destroying-asteroids) |
 ## Counting Sort
@@ -55,6 +58,7 @@
 | [0009-palindrome-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 | [1518-water-bottles](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/1518-water-bottles) |
@@ -69,6 +73,7 @@
 | [0136-single-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +82,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
