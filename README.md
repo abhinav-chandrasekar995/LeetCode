@@ -34,6 +34,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0058-length-of-last-word) |
 ## Math
 |  |
 | ------- |
