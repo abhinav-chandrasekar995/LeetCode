@@ -1,19 +1,15 @@
 class Solution {
 public:
     int strStr(string haystack, string needle) {
-        int pos=-1;
-        int needlelength=needle.length();
-        for(int i=0;i<haystack.length();i++)
-        {
-            if(haystack[i]==needle[0])
-            {
-              if(haystack.substr(i,needlelength)==needle)
-              {
-              pos=i;
-              break;
-              }
+       int substrlen=needle.length();
+       int strlen=haystack.length();
+       for(int i=0;i<strlen;i++){
+        if(needle[0]==haystack[i]){
+            if (needle==haystack.substr(i,substrlen)){
+                return i;
             }
         }
-        return pos;
+       }
+       return -1;
     }
 };
