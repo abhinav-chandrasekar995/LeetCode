@@ -213,4 +213,12 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/abhinav-chandrasekar995/LeetCode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
