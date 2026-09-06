@@ -23,7 +23,7 @@ public:
        }
        return ans;
     }
-    void largest_area(vector<int>histogram,vector<int>& areas) {
+    void largest_area(vector<int>& histogram,vector<int>& areas) {
         int n=histogram.size();
         vector<int>pse(n,-1), nse(n,n);
         stack<int>st;
