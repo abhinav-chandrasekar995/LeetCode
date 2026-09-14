@@ -10,7 +10,7 @@ public:
     void soe(int num, set<int>& store) {
         vector<int>verdict(num+1,1);
         verdict[0]=0;
-        verdict[1]=1;
+        verdict[1]=0;
         int x=(int)sqrt(num+1);
         for(int i=2;i<=x;i++) {
             if(verdict[i]==1) {
